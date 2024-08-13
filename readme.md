@@ -1,0 +1,2 @@
+# API Test automation
+This is a simple API test automation project using Python, Pytest, and Requests library. The project is structured in a way that it can be easily extended and maintained. The project is designed to test the following API endpoints:
