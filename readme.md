@@ -9,7 +9,7 @@ This is a simple API test automation project using Python, Pytest, and Requests 
 
 ## System under test (SUT)
 https://jsonplaceholder.typicode.com/
-
+ 
 ## Test approach
 - Do test preparations
 - Read the docs (requirements and API docs)
