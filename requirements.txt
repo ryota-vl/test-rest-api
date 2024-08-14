@@ -2,5 +2,5 @@ pytest
 pytest-xdist
 pytest-dotenv
 requests
-pytestomatio==2.7.0
+pytestomatio
 jsonschema
