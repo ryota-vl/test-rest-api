@@ -1,0 +1,23 @@
+###
+GET https://jsonplaceholder.typicode.com/posts/1
+Accept: application/json
+
+###
+GET https://jsonplaceholder.typicode.com/comments/1
+Accept: application/json
+
+###
+GET https://jsonplaceholder.typicode.com/albums/1
+Accept: application/json
+
+###
+GET https://jsonplaceholder.typicode.com/photos/1
+Accept: application/json
+
+###
+GET https://jsonplaceholder.typicode.com/todos/1
+Accept: application/json
+
+###
+GET https://jsonplaceholder.typicode.com/users/1
+Accept: application/json

@@ -1,4 +1,6 @@
-requests
 pytest
 pytest-xdist
+pytest-dotenv
+requests
 pytestomatio
+jsonschema
