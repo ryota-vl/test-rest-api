@@ -5,7 +5,7 @@ from pytest import mark
 def test_post_1(session):
     response = session.get('/posts/1')
     payload = response.json()
-    assert payload['id'] == 2
+    assert payload['id'] == 1
     assert payload['title'] == 'sunt aut facere repellat provident occaecati excepturi optio reprehenderit'
     assert 'recusandae consequuntur expedita' in payload['body']
 
